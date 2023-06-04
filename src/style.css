@@ -1,0 +1,21 @@
+.count{
+    width:fit-content;
+    margin: auto;
+    border: 2px solid coral;
+    border-radius: 20px;
+    padding:30px;
+    margin-top: 10%;
+}
+h1{
+    text-align: center;
+    color:coral;
+}
+button{
+    width:30px;
+    height:30px;
+    margin:5px;
+    border: outset;
+    border-radius: 10px;
+    color: coral;
+    border:1px solid coral;
+}
